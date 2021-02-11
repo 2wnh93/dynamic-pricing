@@ -17,7 +17,7 @@ At the first stage, I apply an unsupervised learning algorithm to identify clust
 
 <u>*Stage 2 - Ideal Price Range for each Cluster*</u>
 
-Once clusters are set, at the second stage, I perform a multivariate regression analysis to predict the ideal sales price for each cluster. Evaluation metric to select the best model is the accuracy score (ie. the R^2^ score). R^2^ score ranges from 0 to 1 with 1 being perfect accuracy. 
+Once clusters are set, at the second stage, I perform a multivariate regression analysis to predict the ideal sales price for each cluster. Evaluation metric to select the best model is the accuracy score (ie. the R^2 score). R^2 score ranges from 0 to 1 with 1 being perfect accuracy. 
 
 
 <u>*Stage 3 - Expected Revenue Generated*</u>
